@@ -14,7 +14,7 @@ var hapi = require('hapi'),
 
 
 // initialize the server
-var port = config.server.api.port || 6000,
+var port = config.server.api.port || 4000,
     host = config.server.api.host || 'localhost';
 
 
